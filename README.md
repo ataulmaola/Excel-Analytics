@@ -2,7 +2,7 @@
 
 This project focuses on analyzing sales data using **Microsoft Excel**. It includes data cleaning with Power Query, data modeling with Power Pivot, and building an interactive report/ dashboard using PivotTables and DAX measures.
 
-The goal is to extract meaningful business insights, track KPIs, and support strategic decision-making through clean visualizations and reporting.
+The goal is to extract meaningful business insights, track KPIs, and support strategic decision-making through clean reporting.
 
 ---
 
@@ -11,8 +11,8 @@ The goal is to extract meaningful business insights, track KPIs, and support str
 - Cleaned raw sales data using **Power Query**
 - Transformed and loaded data into a model using **Power Pivot**
 - Built relationships between tables to enable powerful calculations
-- Used **DAX measures** to create dynamic metrics like Total Revenue, Profit, and Sales Growth
-- Created an **interactive dashboard** with  pivot charts
+- Used **DAX measures** to create dynamic metrics like product , division category wise Net sales 
+- Created an **interactive report** with  pivot table
 
 ---
 
