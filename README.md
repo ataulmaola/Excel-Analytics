@@ -40,6 +40,8 @@ The goal is to extract meaningful business insights, track KPIs, and support str
 - Built using **PivotTables**, **Slicers**, and **Power Pivot model**
 - Useful for evaluating sales trends across geography and organizational structure
 
+![Customer Performance Report]((https://github.com/ataulmaola/Excel-Analytics/blob/428ba8a29bbf71f810291756c1eef122f6443fee/01.png)
+
 ---
 
 ## 📬 Connect with Me
