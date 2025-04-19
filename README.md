@@ -1,6 +1,6 @@
 # 📊 Sales Analytics Dashboard in Excel
 
-This project focuses on analyzing sales data using **Microsoft Excel**. It includes data cleaning with Power Query, data modeling with Power Pivot, and building an interactive dashboard using PivotTables and DAX measures.
+This project focuses on analyzing sales data using **Microsoft Excel**. It includes data cleaning with Power Query, data modeling with Power Pivot, and building an interactive report/ dashboard using PivotTables and DAX measures.
 
 The goal is to extract meaningful business insights, track KPIs, and support strategic decision-making through clean visualizations and reporting.
 
