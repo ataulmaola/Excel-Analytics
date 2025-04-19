@@ -18,10 +18,12 @@ The goal is to extract meaningful business insights, track KPIs, and support str
 
 
 
-### 2. Customer Analysis
-- Analyzed customer segments and purchasing behavior
-- Visualized frequency, recency, and sales volume
-- Summarized findings for actionable business insights
+### 01. Customer Performance Report
+- **Filters Added**: Region, Market (Country), Division
+- **Report Content**: Shows **Fiscal Year-wise Net Sales** from **2019 to 2021**
+- Includes a calculated column: **"21 VS 20"** to compare sales growth between 2020 and 2021
+- Built using **PivotTables**, **Slicers**, and **Power Pivot model**
+- Useful for evaluating sales trends across geography and organizational structure
 
 ### 3. Product Performance Summary
 - Created an executive summary highlighting top-performing products
