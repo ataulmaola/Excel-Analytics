@@ -80,6 +80,16 @@ The goal is to extract meaningful business insights, track KPIs, and support str
   - Included **"% Change"** column to highlight performance trend between 2020 and 2021
   - Useful for identifying high-potential markets for further investment or focus
 ![Top 5 Countries](https://github.com/ataulmaola/Excel-Analytics/blob/28b317d228d207ddfc5b22210eeae0a997326bec/06.png)
+
+### 07. Top 5 Products Net Sales Performance
+- **Filters**: Region, Market, Division
+- **Insights**: Fiscal Year-wise Net Sales from **2019 to 2021** for the **Top 5 Products**
+- **Highlights**:
+  - Focuses only on the **Top 5 best-selling products** by Net Sales
+  - Added **"21 VS 20 Net Sales in % Change"** columns for year-over-year comparison
+  - Helps spotlight consistently high-performing products across years and regions
+![Top 5 Products](https://github.com/ataulmaola/Excel-Analytics/blob/187cf69ceddecf6e08e8a2458b29ddcc46b7803c/07.png)
+
 ---
 
 ## 📬 Connect with Me
