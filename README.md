@@ -51,7 +51,7 @@ The goal is to extract meaningful business insights, track KPIs, and support str
   - Added **"21 VS 20 Net Sales"** to show absolute growth
   - Added **"% Change"** column to show percentage growth vs previous year
   - Ideal for evaluating which markets met or missed targets and by how much
-![Market Performance Report][(https://github.com/ataulmaola/Excel-Analytics/blob/acab3a26e536d1405ec6b275517b1756d511dfa5/02%20.png)]
+![Market Performance Report](https://github.com/ataulmaola/Excel-Analytics/blob/acab3a26e536d1405ec6b275517b1756d511dfa5/02%20.png)
 ---
 
 ## 📬 Connect with Me
