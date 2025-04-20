@@ -94,11 +94,12 @@ The goal is to extract meaningful business insights, track KPIs, and support str
 
 ## 📬 Connect with Me
 
-If you're also learning or hiring for data roles, let’s connect!
+Thank you for exploring this project.
 
-- 📧 Email: your.email@example.com
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourname)
+If you're interested in data analytics, working on similar projects, or hiring for data-related roles, feel free to connect with me:
 
----
+- 📧 **Email**: ataulmanas@gmail.com  
+- 🔗 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ataul-anas/)
 
-> _This repo is part of my public accountability as I grow from beginner to pro in the data world._
+This repository is part of my journey in transitioning into the field of data analytics and showcasing hands-on learning through real-world projects.
+
