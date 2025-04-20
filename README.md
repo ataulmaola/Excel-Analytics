@@ -67,6 +67,16 @@ The goal is to extract meaningful business insights, track KPIs, and support str
   - Tracks their individual **Net Sales performance**
  
 ![New Products in 2021](https://github.com/ataulmaola/Excel-Analytics/blob/56dbe1d3583b319e9e43d5a80a37dec085a21561/04.png)  
+
+### 05. Top & Bottom 5 Products
+- **Filters**: Region, Market, Division
+- **Insights**:
+  - Highlights the **top 5** and **bottom 5** performing products based on **Net Sales**
+  - Helps quickly identify best-sellers and underperformers
+- **Highlights**: Great for management reporting and focusing strategic efforts on product-level performance
+
+![Top Bottom Products](https://github.com/ataulmaola/Excel-Analytics/blob/739c2e9c396f99c0b1dbf56811ccec990417c01a/05.png)  
+
 ---
 
 ## 📬 Connect with Me
