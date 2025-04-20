@@ -59,6 +59,14 @@ The goal is to extract meaningful business insights, track KPIs, and support str
 - **Highlights**: Includes **"21 VS 20 Net Sales"** column to monitor division performance changes year-over-year
 
 ![Division Level Report](https://github.com/ataulmaola/Excel-Analytics/blob/cd0ea9d3555f5c9349a402baf03581c6e9d08a58/03.png)
+
+### 04. New Products in 2021
+- **Filters**: Region, Market, Division (optional)
+- **Insights**:
+  - Displays only products introduced in the year **2021**
+  - Tracks their individual **Net Sales performance**
+ 
+![New Products in 2021](https://github.com/ataulmaola/Excel-Analytics/blob/56dbe1d3583b319e9e43d5a80a37dec085a21561/04.png)  
 ---
 
 ## 📬 Connect with Me
