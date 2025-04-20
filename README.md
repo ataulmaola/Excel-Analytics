@@ -77,6 +77,14 @@ The goal is to extract meaningful business insights, track KPIs, and support str
 
 ![Top Bottom Products](https://github.com/ataulmaola/Excel-Analytics/blob/739c2e9c396f99c0b1dbf56811ccec990417c01a/05.png)  
 
+### 06. Top 5 Countries Report
+- **Filters**: Region, Division
+- **Insights**: Fiscal Year-wise Net Sales from **2019 to 2021** for the **Top 5 performing Markets (Countries)**
+- **Highlights**:
+  - Added **"21 VS 20 Net Sales"** column to show absolute change
+  - Included **"% Change"** column to highlight performance trend between 2020 and 2021
+  - Useful for identifying high-potential markets for further investment or focus
+![Top 5 Countries](https://github.com/ataulmaola/Excel-Analytics/blob/28b317d228d207ddfc5b22210eeae0a997326bec/06.png)
 ---
 
 ## 📬 Connect with Me
