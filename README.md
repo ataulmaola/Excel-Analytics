@@ -44,6 +44,16 @@ The goal is to extract meaningful business insights, track KPIs, and support str
 
 ---
 
+### 02. Market Performance Report vs Target
+- **Filters**: Region, Division
+- **Insights**: Fiscal Year-wise Net Sales from **2019 to 2021** across different Markets (Countries)
+- **Highlights**:
+  - Added **"21 VS 20 Net Sales"** to show absolute growth
+  - Added **"% Change"** column to show percentage growth vs previous year
+  - Ideal for evaluating which markets met or missed targets and by how much
+![Market Performance Report](./screenshots/market_performance.png)  
+---
+
 ## 📬 Connect with Me
 
 If you're also learning or hiring for data roles, let’s connect!
