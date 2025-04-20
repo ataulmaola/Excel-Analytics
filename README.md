@@ -42,7 +42,7 @@ The goal is to extract meaningful business insights, track KPIs, and support str
 
 ![Customer Performance Report](https://github.com/ataulmaola/Excel-Analytics/blob/428ba8a29bbf71f810291756c1eef122f6443fee/01.png)
 
----
+
 
 ### 02. Market Performance Report vs Target
 - **Filters**: Region, Division
@@ -52,6 +52,13 @@ The goal is to extract meaningful business insights, track KPIs, and support str
   - Added **"% Change"** column to show percentage growth vs previous year
   - Ideal for evaluating which markets met or missed targets and by how much
 ![Market Performance Report](https://github.com/ataulmaola/Excel-Analytics/blob/9c2c49658647b25521fd59f5a056e9bad0291606/02.png)
+
+### 03. Division Level Report
+- **Filters**: Region, Market
+- **Insights**: Fiscal Year-wise Net Sales from **2019 to 2021** for different Divisions
+- **Highlights**: Includes **"21 VS 20 Net Sales"** column to monitor division performance changes year-over-year
+
+![Division Level Report](https://github.com/ataulmaola/Excel-Analytics/blob/cd0ea9d3555f5c9349a402baf03581c6e9d08a58/03.png)
 ---
 
 ## 📬 Connect with Me
