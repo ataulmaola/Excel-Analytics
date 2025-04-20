@@ -4,7 +4,6 @@ This project focuses on analyzing sales data using **Microsoft Excel**. It inclu
 
 The goal is to extract meaningful business insights, track KPIs, and support strategic decision-making through clean reporting.
 
----
 
 ## 🧾 Project Summary
 
@@ -13,9 +12,6 @@ The goal is to extract meaningful business insights, track KPIs, and support str
 - Built relationships between tables to enable powerful calculations
 - Used **DAX measures** to create dynamic metrics like product , division category wise Net sales 
 - Created an **interactive report** with  pivot table
-
----
-
 
 
 ---
@@ -31,7 +27,6 @@ The goal is to extract meaningful business insights, track KPIs, and support str
 | PivotTables & Charts | Visualization of metrics and trends       |
 | Slicers            | Interactive filtering for dynamic reports    |
 
----
 
 ### 01. Customer Performance Report
 - **Filters Added**: Region, Market (Country), Division
