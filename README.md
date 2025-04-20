@@ -99,7 +99,7 @@ Thank you for exploring this project.
 If you're interested in data analytics, working on similar projects, or hiring for data-related roles, feel free to connect with me:
 
 - 📧 **Email**: ataulmanas@gmail.com  
-- 🔗 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ataul-anas/)
+- 🔗 **LinkedIn**: [Ataul Maola Anas](https://www.linkedin.com/in/ataul-anas/)
 
 This repository is part of my journey in transitioning into the field of data analytics and showcasing hands-on learning through real-world projects.
 
