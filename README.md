@@ -1,17 +1,14 @@
-# 📊 Sales Analytics Dashboard in Excel
+# 📊 Finance Analytics Dashboard — Excel Project
 
-This project focuses on analyzing sales data using **Microsoft Excel**. It includes data cleaning with Power Query, data modeling with Power Pivot, and building an interactive report/ dashboard using PivotTables and DAX measures.
+This project is part of my journey to becoming a Data Analyst. It features a **Finance Analytics Dashboard** built using Microsoft Excel, Power Query, Power Pivot, and DAX. The dashboard helps visualize financial performance across fiscal years and business segments.
 
-The goal is to extract meaningful business insights, track KPIs, and support strategic decision-making through clean reporting.
+---
 
+## 🎯 Objective
 
-## 🧾 Project Summary
+To transform and analyze financial datasets (2019–2021) into actionable insights using Excel’s powerful data tools. The project focuses on revenue analysis, profitability, cash flow, and budget vs actual comparisons.
 
-- Cleaned raw sales data using **Power Query**
-- Transformed and loaded data into a model using **Power Pivot**
-- Built relationships between tables to enable powerful calculations
-- Used **DAX measures** to create dynamic metrics like product , division category wise Net sales 
-- Created an **interactive report** with  pivot table
+---
 
 
 ---
