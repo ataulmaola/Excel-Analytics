@@ -8,10 +8,6 @@ This project is part of my journey to becoming a Data Analyst. It features a **F
 
 To transform and analyze financial datasets (2019–2021) into actionable insights using Excel’s powerful data tools. The project focuses on revenue analysis, profitability, cash flow, and budget vs actual comparisons.
 
----
-
-
----
 
 ## 🛠️ Tools & Features Used
 
